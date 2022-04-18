@@ -1,7 +1,5 @@
 ﻿using Business.Abstract;
 using Business.Concrete;
-using Business.Abstract;
-using Business.Concrete;
 using Core.DependencyResolvers;
 using Core.Extensions;
 using Core.Utilities.IoC;
@@ -24,7 +22,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Core.DependencyResolvers;
 
 namespace WebAPI
 {
